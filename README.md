@@ -1,7 +1,7 @@
 this project is combined with ABA Developer ESP32 RTOS template.  
   
 ## Project Structure  
---/apps 
+--/apps  
     --/LDR  
     --/LED  
     --app.cpp  
