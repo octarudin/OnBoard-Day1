@@ -1,0 +1,7 @@
+OnBoard Project Day 1
+
+Applying ABA ESP32 C++ Template
+Mini-Project:
+    - LED Blinking 
+    - LDR Sensor Reading 
+    - RTOS Paradigm
